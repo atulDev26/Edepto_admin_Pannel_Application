@@ -1,4 +1,4 @@
-# notesapp
+# Edepto admin pannel Application
 
 An Electron application with React
 
