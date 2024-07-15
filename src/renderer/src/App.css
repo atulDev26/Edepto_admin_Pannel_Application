@@ -1,0 +1,25 @@
+:root {
+    --white-color: #ffffff;
+    --black-color: #020202;
+    --light-black-color: #1E293B;
+    --primary-red: #d94230;
+    --primary-blue: #024cc7;
+    --primary-yellow: #f2ae00;
+    --table-buttons-color: #2959ab;
+    --primary-green: #96c237;
+    --primary-light-white: #f5f0f6;
+    --primary-dark-white: #ece5f0;
+    --background-color: #f8f9fb;
+    --input-gray: #717171;
+    --footer-color: #94a3b8;
+    --menu-text-color: #475569;
+    --table-header-bg: #f9f9f9;
+    --search-box-background: #f1f5f9;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    border: none;
+    font-family: "Inter", sans-serif;
+}
